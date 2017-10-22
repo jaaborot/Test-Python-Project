@@ -1,5 +1,5 @@
 # Payroll System Requirements #
-Note: This is a dummy software project for learning Test-driven Development approach to software development.
+_Note: This is a dummy software project for learning Test-driven Development approach to software development._
 
 ## Description: ##
 This is a documentation of the system requirements for a Payroll System of a company. 
