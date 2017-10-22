@@ -7,9 +7,7 @@ This is a documentation of the system requirements for a Payroll System of a com
 ## User Stories: ##
 1. AS a finance administrator,
 
-
    I can generate a month-specific report of per-day computation of a personnel's in-out time record
-
 
    SO I can compute her per-day salary for the month.
 2. User Story 2.
