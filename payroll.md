@@ -1,5 +1,5 @@
 # Payroll System Requirements #
-_Note: This is a dummy software project for learning Test-driven Development approach to software development._
+_Note: This is a dummy software project for learning Test-driven Development approach to software development using Object-oriented design in Python._
 
 ## Description: ##
 This is a documentation of the system requirements for a Payroll System of a company. 
