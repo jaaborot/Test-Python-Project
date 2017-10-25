@@ -28,7 +28,7 @@ Temporary Items
 .apdisk
 
 # Python #
-.pyc
+*.pyc
 
 # Python egg metadata, regenerated from source files by setuptools.
 /*.egg-info
@@ -46,5 +46,14 @@ Temporary Items
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
+
+### Tox ###
+.tox/*
+
+### PyTest ###
+.cache/*
+
+### Hypothesis ###
+.hypothesis/*
 
 # End of https://www.gitignore.io/api/osx,visualstudiocode

@@ -21,7 +21,7 @@ setup(name='tdd_python',
       author='Jeffrey A. Aborot',
       author_email='jaaborot@up.edu.ph',
       license='MIT',
-      packages=['.'],
+      packages=[],
       install_requires=[
           'markdown',
       ],
